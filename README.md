@@ -7,13 +7,13 @@
 program that makes readme's
 
 ## Table of Contents
-- [Description](## Description)
-- [Installation](## Installation)
-- [Usage](## Usage)
-- [License](## License)
-- [Contributing](## Contributing)
-- [Tests](## Tests)
-- [Questions](## Questions)
+- [Description](# Description)
+- [Installation](# Installation)
+- [Usage](# Usage)
+- [License](# License)
+- [Contributing](# Contributing)
+- [Tests](# Tests)
+- [Questions](# Questions)
 
 ## Installation
 npm install
