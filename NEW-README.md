@@ -1,10 +1,10 @@
 
-# undefined
+# cool read me project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-undefined
+program that makes readme's
 
 ## Table of Contents
 - [Description](## Description)
@@ -16,20 +16,20 @@ undefined
 - [Questions](## Questions)
 
 ## Installation
-undefined
+npm install
 
 ## Usage
-undefined
+creating readme files
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
-undefined
+email @ adrian@adrian.com
 
 ## Tests
-undefined
+npm test
 
 ## Questions
-undefined undefined undefined
+email @ adrian@adrian.com adrian@adrian.com mygithub.com
 
