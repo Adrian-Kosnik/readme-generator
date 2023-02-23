@@ -36,6 +36,6 @@ ${data.tests}
 ${data.questions} ${data.email} ${data.github}
 
 `;
-}
+};
 
 module.exports = generateMarkdown;

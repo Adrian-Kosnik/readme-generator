@@ -2,8 +2,7 @@ const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-const licenceBadges = require("./badges");
-
+const licenceBadges = require("./utils/badges");
 
 // function to write README file
 function writeToFile(fileName, data) {
@@ -66,12 +65,8 @@ function init() {
         name: 'questions',
       },
     ])
-    // .then((response) =>
-    //   response. === response.
-    //     ? console.log(`Success! User: ${response.} works for ${response.}`)
-    //     : console.log('error')
-    // );
-}
+    .then(response => {writeToFile('NEW-README.md', generateMarkdown(response))});
+};
 
 // function call to initialize program
 init();
